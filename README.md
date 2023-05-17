@@ -10,3 +10,6 @@ You need to use the directions in the link below to get your access key, and bot
 Place all of the usernames you would like as recipients in the json file "usernames: field.
 
 Test then set up as a cron job and boom! 
+
+## Plans
+I am planning on doing the same thing for discord shortly and will place the link here when that is done.
