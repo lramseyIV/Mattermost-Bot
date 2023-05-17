@@ -1,0 +1,6 @@
+{
+    "key": "key_here",
+    "url": "https://[your-url]/api/v4",
+    "bot_id": "botid-here",
+    "usernames": ["user1", "user2"]
+}
